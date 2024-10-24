@@ -1,6 +1,7 @@
 {
   "name": "cours-redux",
   "version": "0.1.0",
+  "type": "module",
   "private": true,
   "dependencies": {
     "@picocss/pico": "^1.4.4",
